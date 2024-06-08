@@ -43,7 +43,7 @@ function App() {
             className="waiting"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" alt='bear-waiting'
           />
-        <h1 className='question'> Will You be My valentine?</h1>
+        <h1 className='question'> Will You be My valentine for Life?</h1>
         <div className='buttons'>
           <button className='yes-button' onClick={()=>setyes(true)} style={{fontSize: yesbtnsize}}>Yes</button>
           <button className='no-button' onClick={handlenoclick}>{count === 0 ?"No":getbtntxt()}</button>
