@@ -13,7 +13,7 @@ function CuteAnimation(props) {
             <><div className="yes-really">
                 <img src="https://media1.tenor.com/m/A110TqjeIJsAAAAC/love-poke.gif" alt='love-poke'/>
             </div>
-            <h1>WOOOOO!! Finally {props.count} times tarvata...Come Here</h1>
+            <h1>WOOOOO!! Finally After {props.count} times...Come Here</h1>
             <div className="yes-after-many-times">
                 <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt='bear-kiss'/>
             </div></>
